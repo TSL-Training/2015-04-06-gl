@@ -70,12 +70,12 @@ CHECKS = [
     'virtual-browser',
 # Version control
     'git',
-    'hg',              # Command line tool
+#    'hg',              # Command line tool
     #'mercurial',       # Python package
-    'EasyMercurial',
+#    'EasyMercurial',
 # Build tools and packaging
-    'make',
-    'virtual-pypi-installer',
+#    'make',
+#    'virtual-pypi-installer',
     'setuptools',
     #'xcode',
 # Testing
@@ -88,17 +88,17 @@ CHECKS = [
     'sqlite3-python',  # Python package
 # Python
     'python',
-    'ipython',         # Command line tool
-    'IPython',         # Python package
-    'argparse',        # Useful for utility scripts
-    'numpy',
-    'scipy',
-    'matplotlib',
-    'pandas',
-    'sympy',
-    'Cython',
-    'networkx',
-    'mayavi.mlab',
+#    'ipython',         # Command line tool
+#    'IPython',         # Python package
+#    'argparse',        # Useful for utility scripts
+#    'numpy',
+#    'scipy',
+#    'matplotlib',
+#    'pandas',
+#    'sympy',
+#    'Cython',
+#    'networkx',
+#    'mayavi.mlab',
     ]
 
 CHECKER = {}
